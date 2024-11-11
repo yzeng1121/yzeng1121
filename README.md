@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋🏻,  I'm Yuxin Zeng</h1>
 <h3 align="center">Student whose passions lie within the intersections of software and medicine.</h3>
 
+<p align = "right" >
+I’m currently a first-year computer science student hoping to pursue the pre-medicine track. My interests lie in how technology works to improve overall patient outcomes.
+</p>
 - 🔭 I’m currently working on **a MacBook Trash Auto-Cleaner**
 
 - 💬 Ask me about **sorting algorithms, restaurants around Boston, pop-indie music**
