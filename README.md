@@ -11,7 +11,7 @@ I’m currently a first-year computer science student hoping to pursue the pre-m
 
 - 📫 Contact me: **yu.zeng@tufts.edu**
 
-- ⭐️ Fun fact **I enjoy cooking and trying new recipes !**
+- ⭐️ Fun fact **I enjoy cooking and trying new recipes as well as traveling and taking fun pictures !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
