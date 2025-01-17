@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋🏻, my name is Yuxin Zeng
-<h4 align="center">(pronounced you-sin)</h4></h1>
+<h1 align="center">Hi 👋🏻, my name is Yuxin Zeng</h1>
+<h4 align="center">(pronounced you-sin)</h4>
 <h3 align="center">Student whose passions lie within the intersections of software and medicine.</h3>
 
 <p align = "center" >
