@@ -3,7 +3,7 @@
 <h3 align="center">Student whose passions lie within the intersections of software and medicine.</h3>
 
 <p align = "center" >
-I’m currently a first-year computer science student hoping to pursue the pre-medicine track. My interests lie in how technology works to improve overall patient outcomes and in advancing medicine.
+I’m currently a first-year computer science student studying how technology works to improve overall patient outcomes and its role in advancing medicine.
 </p>
 
 - 💻 I’m currently working on a **software that keeps track of the jobs you've saved and applied to via LinkedIn**.
