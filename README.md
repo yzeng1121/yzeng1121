@@ -6,7 +6,7 @@
 I’m currently a first-year computer science student studying how technology works to improve overall patient outcomes and its role in advancing medicine.
 </p>
 
-- 💻 I’m currently working on a **software that keeps track of the jobs you've saved and applied to via LinkedIn**.
+- 💻 I’m currently working on an **iOS social media application allowing users to browse and create albums to save others' photos**.
 
 - 💬 Ask me about **sorting algorithms, restaurants around Boston, and pop-indie music !**
 
