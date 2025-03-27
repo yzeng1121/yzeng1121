@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋🏻, my name is Yuxin Zeng</h1>
 <h4 align="center">(pronounced you-sin)</h4>
-<h3 align="center">Student whose passions lie within the intersections of software and medicine.</h3>
 
 <p align = "center" >
 I’m currently a first-year computer science student studying how technology works to improve overall patient outcomes and its role in advancing medicine.
