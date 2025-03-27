@@ -12,7 +12,7 @@ I’m currently a first-year computer science student studying how technology wo
 
 - 📫 Contact me: **yu.zeng@tufts.edu**
 
-- ⭐️ Fun fact **I enjoy cooking and trying new recipes as well as traveling and taking fun pictures !**
+- ⭐️ Fun facts **I enjoy cooking, trying new recipes, and learning songs on the guitar & piano!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
