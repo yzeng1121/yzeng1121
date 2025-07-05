@@ -2,7 +2,7 @@
 <h4 align="center">(pronounced you-sin)</h4>
 
 <p align = "center" >
-I’m a rising second-year computer science student studying how technology works to improve overall patient outcomes and its role in advancing medicine.
+I’m a computer science student with interests in how technology works to improve overall patient outcomes and its role in advancing medicine. I'm particularly fascinated with how AI/ML can help streamline the patient care & treatment delivery process, so please feel free to reach out if you're working on cool projects related to that!
 </p>
 
 - 💻 I’m currently working on an **iOS application**!
