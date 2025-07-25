@@ -2,12 +2,12 @@
 <h4 align="center">(pronounced you-sin)</h4>
 
 <p align = "center" >
-I’m a computer science student with interests in how technology works to improve overall patient outcomes and its role in advancing medicine. I'm particularly fascinated with how AI/ML can help streamline the patient care & treatment delivery process, so please feel free to reach out if you're working on cool projects related to that!
+I'm a computer science student at Tufts University passionate about full-stack development and using software to drive meaningful change. I mainly work with C++, Java, & JavaScript, and have experience with modern frontend tools. I'm currently diving deeper into backend development, system design, scalable architectures, and machine learning. I'm especially interested in the intersection of tech, medicine, and biology—from tools that support patient recovery to innovations in digital health.
 </p>
 
 - 💻 I’m currently working on an **iOS application**!
 
-- 💬 Ask me about **sorting algorithms, restaurants around Boston, and pop-indie music !**
+- 💬 Ask me about **my favorite sorting algorithms, restaurants around Boston, and music!**
 
 - 📫 Contact me: **yu.zeng@tufts.edu**
 
