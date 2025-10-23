@@ -129,4 +129,7 @@ I'm a computer science student at Tufts University passionate about full-stack d
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" width="auto" height="28"/>
     </a>
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" height="28"/>
+    </a>
 </p>
