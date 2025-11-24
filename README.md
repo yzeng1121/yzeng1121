@@ -1,12 +1,14 @@
 <h1 align="center">Hey, I'm Yuxin !</h1>
 
-<img align="right" width="300" alt="___1_-removebg-preview" src="https://github.com/user-attachments/assets/6c8c0e4b-84c6-4a43-833b-453b2b40266a" />
+<img align="right" width="300" alt="Screenshot_2025-11-24_at_4 00 07_AM-removebg-preview" src="https://github.com/user-attachments/assets/8852a427-3afa-40e5-b462-fa0443bd15bb" />
+
 
 <p align="left">
 I'm a computer science student at Tufts University passionate about full-stack development and using software to drive meaningful change. I mainly work with C++, Java, & JavaScript, and have experience with modern frontend tools. I'm currently diving deeper into backend development, system design, scalable architectures, and machine learning. I'm especially interested in the intersection of tech, medicine, and biology—from tools that support patient recovery to innovations in digital health.
 </p>
 
 Ask me about **restaurants, running, matcha, hackathons, digital cameras.**
+
 **yu.zeng@tufts.edu**
 
 <h3 align="left">Connect with me:</h3>
