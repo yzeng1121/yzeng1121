@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Yuxin !</h1>
+<h1 align="center">Yuxin Zeng</h2>
 
 <img align="right" width="150" alt="Screenshot_2025-11-24_at_4 00 07_AM-removebg-preview" src="https://github.com/user-attachments/assets/8852a427-3afa-40e5-b462-fa0443bd15bb" />
 
