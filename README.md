@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Yuxin Zeng</h1>
+<h1 align="center">Hey, I'm Yuxin !</h1>
 
 <p align = "left" >
 I'm a computer science student at Tufts University passionate about full-stack development and using software to drive meaningful change. I mainly work with C++, Java, & JavaScript, and have experience with modern frontend tools. I'm currently diving deeper into backend development, system design, scalable architectures, and machine learning. I'm especially interested in the intersection of tech, medicine, and biology—from tools that support patient recovery to innovations in digital health.
