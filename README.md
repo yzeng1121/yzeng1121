@@ -4,14 +4,14 @@
 
 
 <p align="left">
-I'm a comp-sci student at Tufts University passionate about using software to drive meaningful impact particularly within the sectors of tech and {medicine, biology, finance}.
-    I'm currently interested in 
-    <ul>
-      <li>fullstack development
-      <li>machine learning algorithms
-      <li>bioinformatics research
-    </ul>
-</p>
+I'm a comp-sci student at Tufts University passionate about using software to drive meaningful impact particularly within the sectors of tech and {medicine, biology, finance}. </p>
+
+I'm currently interested in 
+<ul>
+  <li>fullstack development
+  <li>machine learning algorithms
+  <li>bioinformatics research
+</ul>
 
 Ask me about **restaurants, running, matcha, hackathons, digital cameras.**
 
