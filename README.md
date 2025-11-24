@@ -5,13 +5,9 @@
 I'm a computer science student at Tufts University passionate about full-stack development and using software to drive meaningful change. I mainly work with C++, Java, & JavaScript, and have experience with modern frontend tools. I'm currently diving deeper into backend development, system design, scalable architectures, and machine learning. I'm especially interested in the intersection of tech, medicine, and biology—from tools that support patient recovery to innovations in digital health.
 </p>
 
-- 💻 I’m currently working on a **mobile application** for college students!
+Ask me about **restaurants, running, matcha, hackathons, digital cameras.**
 
-- 💬 Ask me about **my favorite sorting algorithms, restaurants around Boston, and recent music!**
-
-- 📫 Contact me: **yu.zeng@tufts.edu**
-
-- ⭐️ Fun fact **I enjoy cooking new recipes, going on runs, and learning songs on the guitar & piano!**
+**yu.zeng@tufts.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
