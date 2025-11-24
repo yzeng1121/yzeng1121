@@ -5,12 +5,15 @@
 
 <p align="left">
 I'm a comp-sci student at Tufts University passionate about using software to drive meaningful impact.
-    I'm currently interested in fullstack development, machine learning algorithms, & bioinformatics research!
+    I'm currently interested in 
+        - fullstack development
+        - machine learning algorithms
+        - bioinformatics research
 </p>
 
 Ask me about **restaurants, running, matcha, hackathons, digital cameras.**
 
-**yu.zeng@tufts.edu**
+Reach out to me at **yu.zeng@tufts.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
