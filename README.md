@@ -8,9 +8,9 @@ I'm a comp-sci student at Tufts University passionate about using software to dr
 
 I'm currently interested in ...
 <ul>
-  <li>fullstack development
-  <li>machine learning algorithms
-  <li>bioinformatics research
+  <li>fullstack development (more backend)
+  <li>training machine learning algorithms
+  <li>bioinformatics research: modeling biological networks
 </ul>
 
 Ask me about **restaurants, running, matcha, hackathons, digital cameras.**
