@@ -1,4 +1,4 @@
-<h1 align="center">Hey ! I'm Yuxin</h2>
+<h1 align="center">Hey I'm Yuxin</h2>
 
 <img align="right" width="200" alt="Screenshot_2025-11-24_at_4 00 07_AM-removebg-preview" src="https://github.com/user-attachments/assets/8852a427-3afa-40e5-b462-fa0443bd15bb" />
 
@@ -54,12 +54,6 @@ Reach out to me at **yu.zeng@tufts.edu**
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" width="auto" height="28"/>
     </a>
-    <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" width="auto" height="28"/>
-    </a>
-    <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" width="auto" height="28"/>
-    </a>
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" width="auto" height="28"/>
     </a>
@@ -75,23 +69,11 @@ Reach out to me at **yu.zeng@tufts.edu**
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" width="auto" height="28"/>
     </a>
-    <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" width="auto" height="28"/>
-    </a>
-    <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" alt="Apache Maven" width="auto" height="28"/>
-    </a>
-    <a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" alt="Apache Tomcat" width="auto" height="28"/>
-    </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" width="auto" height="28"/>
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" width="auto" height="28"/>
-    </a>
-    <a href="https://redis.io" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" width="auto" height="28"/>
     </a>
     <a href="https://supabase.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" width="auto" height="28"/>
@@ -122,9 +104,6 @@ Reach out to me at **yu.zeng@tufts.edu**
     </a>
     <a href="https://github.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="auto" height="28"/>
-    </a>
-    <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" width="auto" height="28"/>
     </a>
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" width="auto" height="28"/>
