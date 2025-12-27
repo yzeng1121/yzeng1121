@@ -1,9 +1,9 @@
 <h1 align="center">Hey I'm Yuxin</h2>
 
-<img align="right" width="200" style="padding-top: 100px" src="https://github.com/user-attachments/assets/de49db1f-007d-4cbe-adae-f9ea51d41025" alt="toro-inoue-dancing"/>
-
 <p align="left">
 I'm a comp-sci student at Tufts University passionate about using software to drive meaningful impact particularly within the sectors of tech and {medicine, biology, finance}. </p>
+
+<img align="right" width="200" style="padding-top: 100px" src="https://github.com/user-attachments/assets/de49db1f-007d-4cbe-adae-f9ea51d41025" alt="toro-inoue-dancing"/>
 
 I'm currently interested in ...
 <ul>
