@@ -51,6 +51,7 @@ Reach out to me at **yu.zeng@tufts.edu**
     <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow" height="25"/>
     <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras" height="25"/>
     <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn" height="25"/>
+    <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" height="25"/>
     <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" height="25"/>
     <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" height="25"/>
     <img src="https://img.shields.io/badge/-Matplotlib-ffffff?style=flat&logo=Matplotlib&logoColor=black" alt="Matplotlib" height="25"/>
