@@ -30,7 +30,7 @@ Reach out to me at **yu.zeng@tufts.edu**
     <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white" alt="LaTeX" height="25"/>
 </p>
 
-<h3 align="left">Frameworks & Tools</h3>
+<h3 align="left">Frameworks</h3>
 <p align="left">
     <img src="https://img.shields.io/badge/-React-20232a?style=flat&logo=react&logoColor=61DAFB" alt="React" height="25"/>
     <img src="https://img.shields.io/badge/-React_Native-20232a?style=flat&logo=react&logoColor=61DAFB" alt="React Native" height="25"/>
@@ -42,10 +42,6 @@ Reach out to me at **yu.zeng@tufts.edu**
     <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" height="25"/>
     <img src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" height="25"/>
     <img src="https://img.shields.io/badge/-Git-F05033?style=flat&logo=git&logoColor=white" alt="Git" height="25"/>
-    <img src="https://img.shields.io/badge/-GitHub-121011?style=flat&logo=github&logoColor=white" alt="GitHub" height="25"/>
-    <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" height="25"/>
-    <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=Canva&logoColor=white" alt="Canva" height="25"/>
-    <img src="https://img.shields.io/badge/-Premiere_Pro-9999FF?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro" height="25"/>
 </p>
 
 <h3 align="left">Bioinformatics & Machine Learning</h3>
