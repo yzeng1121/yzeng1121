@@ -13,6 +13,8 @@ I'm currently interested in ...
   <li>bioinformatics research: modeling biological networks
 </ul>
 
+.. and I'm currently building a mobile app for students!
+
 Ask me about **restaurants, running, matcha, hackathons, digital cameras.**
 
 Reach out to me at **yu.zeng@tufts.edu**
