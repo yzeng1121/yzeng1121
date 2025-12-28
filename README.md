@@ -3,7 +3,7 @@
 <p align="left">
 I'm a comp-sci student at Tufts University passionate about using software to drive meaningful impact particularly within the realms of tech with medicine, biology, and finance. </p>
 
-<img align="right" width="200" style="padding-right: 200px" src="https://github.com/user-attachments/assets/de49db1f-007d-4cbe-adae-f9ea51d41025" alt="toro-inoue-dancing"/>
+<img align="right" width="250" style="padding-right: 200px" src="https://github.com/user-attachments/assets/de49db1f-007d-4cbe-adae-f9ea51d41025" alt="toro-inoue-dancing"/>
 
 I'm currently interested in ...
 <ul>
