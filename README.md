@@ -22,7 +22,9 @@ Reach out to me at **yu.zeng@tufts.edu**
 <p align="left">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="25"/>
     <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" height="25"/>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C" height="25"/>
     <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" height="25"/>
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#" height="25"/>
     <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" height="25"/>
     <img src="https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="25"/>
     <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white" alt="R" height="25"/>
@@ -35,6 +37,7 @@ Reach out to me at **yu.zeng@tufts.edu**
 <p align="left">
     <img src="https://img.shields.io/badge/-React-20232a?style=flat&logo=react&logoColor=61DAFB" alt="React" height="25"/>
     <img src="https://img.shields.io/badge/-React_Native-20232a?style=flat&logo=react&logoColor=61DAFB" alt="React Native" height="25"/>
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET" height="25"/>
     <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring" height="25"/>
     <img src="https://img.shields.io/badge/-FastAPI-005571?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" height="25"/>
     <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" height="25"/>
