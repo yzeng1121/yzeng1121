@@ -12,7 +12,7 @@ I'm currently interested in ...
   <li>bioinformatics research: modeling biological networks
 </ul>
 
-.. and I'm currently building a platform to create interpretable healthcare documents!
+.. and I'm currently building a platform with AI agents in the backend to create interpretable healthcare documents!
 
 Ask me about **restaurants, running, matcha, hackathons, digital cameras.**
 
